@@ -61,8 +61,8 @@ CONTACT WITH <a href="https://github.com/KHALID-404"><b>KHALID SHAIFULLAH</a> </
  - `rm -rf X-RANDOM`
  - `git clone https://github.com/KHALID-404/X-RANDOM`
  - `cd X-RANDOM`
- - `chmod 777 RANDOM`
- - `./RANDOM`
+ - `git pull`
+ - `python K-RANDOM.py`
 
 
 #### MY SOCIAL MEDIA
