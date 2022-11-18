@@ -15,12 +15,14 @@ bit = platform.architecture()[0]
 if bit == "64bit":
         os.system('xdg-open https://youtube.com/c/KhaliDTechBd1?utm_source=EKLEiJECCKjOmKnC5IiRIQ')
  
-        os.system("python Random32.py")
+        from RANDOM import khalid
+ 
+        khalid()
  
  
  
 elif bit == "32bit":
-
+ 
         os.system('xdg-open https://youtube.com/c/KhaliDTechBd1?utm_source=EKLEiJECCKjOmKnC5IiRIQ')
  
         os.system('python Random32.py')
