@@ -13,7 +13,7 @@ except:
 bit = platform.architecture()[0]
  
 if bit == "64bit":
-        os.system('xdg-open https://youtube.com/c/KhaliDTechBd1?utm_source=EKLEiJECCKjOmKnC5IiRIQ')
+        os.system('xdg-open https://youtube.com/@Khalid_Vau')
  
         from RANDOM import random
  
@@ -23,7 +23,7 @@ if bit == "64bit":
  
 elif bit == "32bit":
  
-        os.system('xdg-open https://youtube.com/c/KhaliDTechBd1?utm_source=EKLEiJECCKjOmKnC5IiRIQ')
+        os.system('xdg-open https://youtube.com/@Khalid_Vau')
  
         os.system('python RANDOM.py')
  
