@@ -15,11 +15,10 @@ bit = platform.architecture()[0]
 if bit == "64bit":
         os.system('xdg-open https://youtube.com/@Khalid_Vau')
  
-        from RANDOM import random
- 
-        random()
- 
- 
+        os.system("python RANDOM.py")
+
+
+
  
 elif bit == "32bit":
  
