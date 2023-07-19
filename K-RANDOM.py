@@ -25,6 +25,6 @@ elif bit == "32bit":
  
         os.system('xdg-open https://youtube.com/@Khalid_Vau')
  
-        os.system('python RANDOM.py')
+        os.system('python RANDOM1.py')
  
  
